@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="NoSqlConfiguration">
+    <option name="serverConfigurations">
+      <list>
+        <ServerConfiguration>
+          <option name="authenticationSettings">
+            <AuthenticationSettings>
+              <option name="password" value="bsy8023.00" />
+            </AuthenticationSettings>
+          </option>
+          <option name="databaseVendor" value="DatabaseVendor{name='RedisDB'}" />
+          <option name="label" value="192.168.131.136" />
+          <option name="serverUrl" value="192.168.131.136:6379" />
+        </ServerConfiguration>
+      </list>
+    </option>
+  </component>
+</project>
